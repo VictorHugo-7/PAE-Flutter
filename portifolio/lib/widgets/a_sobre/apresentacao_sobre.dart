@@ -162,7 +162,7 @@ class _ApresentacaoHomePageState extends State<ApresentacaoHomePage> {
             // Email
             IconButton(
               icon: Image(
-                image: NetworkImage('lib/images/a_sobre/email.png'),
+                image:AssetImage('assets/images/a_sobre/email.png'),
                 width: 30,
                 height: 30,
               ),
@@ -175,7 +175,7 @@ class _ApresentacaoHomePageState extends State<ApresentacaoHomePage> {
             // Linkedin
             IconButton(
               icon: Image(
-                image: NetworkImage('lib/images/a_sobre/linkendin.png'),
+                image:AssetImage('assets/images/a_sobre/linkendin.png'),
                 width: 30,
                 height: 30,
               ),
@@ -188,7 +188,7 @@ class _ApresentacaoHomePageState extends State<ApresentacaoHomePage> {
             // GitHub
             IconButton(
               icon: Image(
-                image: NetworkImage('lib/images/a_sobre/git.png'),
+                image:AssetImage('assets/images/a_sobre/git.png'),
                 width: 30,
                 height: 30,
               ),

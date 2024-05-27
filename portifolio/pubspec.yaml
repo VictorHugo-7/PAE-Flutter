@@ -67,6 +67,42 @@ flutter:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
+  assets:
+
+  # Logo
+  - assets/images/_logo/logo.png
+
+  # Página Sobre 
+  - assets/images/a_sobre/email.png
+  - assets/images/a_sobre/linkendin.png
+  - assets/images/a_sobre/git.png
+  - assets/images/a_sobre/fotoVictor.png
+
+  # Página Habilidades
+  - assets/images/b_habilidades/html.png
+  - assets/images/b_habilidades/css.png
+  - assets/images/b_habilidades/java.png
+  - assets/images/b_habilidades/python.png
+  - assets/images/b_habilidades/workbench.png
+  - assets/images/b_habilidades/figma.png
+
+  # Página Experiências
+  - assets/images/c_experiencias/foto1.jpg
+  - assets/images/c_experiencias/foto2.jpg
+  - assets/images/c_experiencias/foto3.jpg
+
+  # Certificados 
+  - assets/images/d_certificados/certificado1.jpg
+  - assets/images/d_certificados/certificado2.jpg
+
+  # Projetos
+  - assets/images/e_projetos/projeto1.png
+  - assets/images/e_projetos/projeto2.png
+  - assets/images/e_projetos/projeto3.png
+  - assets/images/e_projetos/botao.png
+
+
+
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 

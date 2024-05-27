@@ -46,8 +46,8 @@ class ConteudoSecondPage extends StatelessWidget {
                   _showInfoDialog(context, 'HTML',
                       'Tenho conhecimento na parte de: Estrutura de uma página WEB, Tabelas, Formulários, Listas e Multimidia: imagens,vídeos,áudio.');
                 },
-                child: Image.network(
-                  'lib/images/b_habilidades/html.png',
+                child: Image.asset(
+                  'assets/images/b_habilidades/html.png',
                   width: 100,
                   height: 100,
                 ),
@@ -62,8 +62,8 @@ class ConteudoSecondPage extends StatelessWidget {
                   _showInfoDialog(context, 'CSS',
                       'Tenho conhecimento na parte de: Estrutura do CSS, Formatações em geral do elementos do HTML, Layout da página com: Flexbox e Grid, Variáveis e Animações.');
                 },
-                child: Image.network(
-                  'lib/images/b_habilidades/css.png',
+                child: Image.asset(
+                  'assets/images/b_habilidades/css.png',
                   width: 100,
                   height: 100,
                 ),
@@ -78,8 +78,8 @@ class ConteudoSecondPage extends StatelessWidget {
                   _showInfoDialog(context, 'Java',
                       'Tenho conhecimento em: Fundamentos da linguagem, Variáveis, Tipos de Dados, Estrurura de condição, Estrutura de repetição e Programação Orientada a Objetos: Classe, Objetos, Métodos, Atributos, Encapsulamento, Herança e Polimorfismo.');
                 },
-                child: Image.network(
-                  'lib/images/b_habilidades/java.png',
+                child: Image.asset(
+                  'assets/images/b_habilidades/java.png',
                   width: 100,
                   height: 100,
                 ),
@@ -94,8 +94,8 @@ class ConteudoSecondPage extends StatelessWidget {
                   _showInfoDialog(context, 'Python',
                       'Tenho conhecimento em: Fundamentos da linguagem, Variáveis, Tipos de Dados, Estrutura de condição, Estrutura de repetição, Funções, Strings, Listas, Tuplas e Dicionários.');
                 },
-                child: Image.network(
-                  'lib/images/b_habilidades/python.png',
+                child: Image.asset(
+                  'assets/images/b_habilidades/python.png',
                   width: 100,
                   height: 100,
                 ),
@@ -110,8 +110,8 @@ class ConteudoSecondPage extends StatelessWidget {
                   _showInfoDialog(context, 'Workbench',
                       'Tenho conhecimento em: Modelagem de Dados utilizando diagrama entidade relacionamneto, Criação de tabelas, CRUD e Operações com SELECT.');
                 },
-                child: Image.network(
-                  'lib/images/b_habilidades/workbench.png',
+                child: Image.asset(
+                  'assets/images/b_habilidades/workbench.png',
                   width: 100,
                   height: 100,
                 ),
@@ -126,8 +126,8 @@ class ConteudoSecondPage extends StatelessWidget {
                   _showInfoDialog(context, 'Figma',
                       'Tenho conhecimento em: criação de protótipos de telas como: tela de login, tela de cadastro, tela inicial, tela de cnfigurações.');
                 },
-                child: Image.network(
-                  'lib/images/b_habilidades/figma.png',
+                child: Image.asset(
+                  'assets/images/b_habilidades/figma.png',
                   width: 100,
                   height: 100,
                 ),

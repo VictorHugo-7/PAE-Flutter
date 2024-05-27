@@ -42,13 +42,13 @@ class ConteudoFifthPage extends StatelessWidget {
             Column(
               children: [
                 Image(
-                  image: NetworkImage('lib/images/e_projetos/projeto1.png'),
+                  image: AssetImage('assets/images/e_projetos/projeto1.png'),
                   width: 250,
                   height: 350,
                 ),
                 IconButton(
                   icon: Image(
-                    image: NetworkImage('lib/images/e_projetos/botao.png'),
+                    image: AssetImage('assets/images/e_projetos/botao.png'),
                     width: 170,
                     height: 50,
                   ),
@@ -62,13 +62,13 @@ class ConteudoFifthPage extends StatelessWidget {
             Column(
               children: [
                 Image(
-                  image: NetworkImage('lib/images/e_projetos/projeto2.png'),
+                  image: AssetImage('assets/images/e_projetos/projeto2.png'),
                   width: 250,
                   height: 350,
                 ),
                 IconButton(
                   icon: Image(
-                    image: NetworkImage('lib/images/e_projetos/botao.png'),
+                    image: AssetImage('assets/images/e_projetos/botao.png'),
                     width: 170,
                     height: 50,
                   ),
@@ -82,13 +82,13 @@ class ConteudoFifthPage extends StatelessWidget {
             Column(
               children: [
                 Image(
-                  image: NetworkImage('lib/images/e_projetos/projeto3.png'),
+                  image: AssetImage('assets/images/e_projetos/projeto3.png'),
                   width: 250,
                   height: 350,
                 ),
                 IconButton(
                   icon: Image(
-                    image: NetworkImage('lib/images/e_projetos/botao.png'),
+                    image: AssetImage('assets/images/e_projetos/botao.png'),
                     width: 170,
                     height: 50,
                   ),

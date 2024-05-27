@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 
 class LogoAppBar extends StatelessWidget {
   const LogoAppBar({super.key});
@@ -8,7 +9,7 @@ class LogoAppBar extends StatelessWidget {
     return const Row(
       children: [
         Image(
-          image: NetworkImage('lib/images/_logo/logo.png'),
+          image: AssetImage('assets/images/_logo/logo.png'),
           width: 100,
           height: 40,
         ),

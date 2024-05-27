@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 
 class ConteudoFourthPage extends StatelessWidget {
   const ConteudoFourthPage({super.key});
@@ -43,7 +44,7 @@ class ConteudoFourthPage extends StatelessWidget {
             Column(
               children: [
                 Image(
-                  image: NetworkImage('lib/images/d_certificados/certificado1.jpg'),
+                  image:AssetImage('assets/images/d_certificados/certificado1.jpg'),
                   width: 600,
                   height: 400,
                 ),
@@ -54,7 +55,7 @@ class ConteudoFourthPage extends StatelessWidget {
             Column(
               children: [
                 Image(
-                  image: NetworkImage('lib/images/d_certificados/certificado2.jpg'),
+                  image:AssetImage('assets/images/d_certificados/certificado2.jpg'),
                   width: 600,
                   height: 400,
                 ),

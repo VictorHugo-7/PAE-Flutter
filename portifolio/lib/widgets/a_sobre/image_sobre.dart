@@ -14,7 +14,7 @@ class ImageHomePage extends StatelessWidget {
 
         // Imagem
         Image(
-          image: NetworkImage('lib/images/a_sobre/fotoVictor.png'),
+          image:AssetImage('assets/images/a_sobre/fotoVictor.png'),
           width: 300,
           height: 440,
         ),

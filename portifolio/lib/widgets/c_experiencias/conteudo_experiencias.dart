@@ -43,7 +43,7 @@ class ConteudoThirdPage extends StatelessWidget {
             Column(
               children: [
                 Image(
-                  image: NetworkImage('lib/images/c_experiencias/foto1.jpg'),
+                  image: AssetImage('assets/images/c_experiencias/foto1.jpg'),
                   width: 400,
                   height: 300,
                 ),
@@ -54,7 +54,7 @@ class ConteudoThirdPage extends StatelessWidget {
             Column(
               children: [
                 Image(
-                  image: NetworkImage('lib/images/c_experiencias/foto2.jpg'),
+                  image: AssetImage('assets/images/c_experiencias/foto2.jpg'),
                   width: 400,
                   height: 300,
                 ),
@@ -65,7 +65,7 @@ class ConteudoThirdPage extends StatelessWidget {
             Column(
               children: [
                 Image(
-                  image: NetworkImage('lib/images/c_experiencias/foto3.jpg'),
+                  image: AssetImage('assets/images/c_experiencias/foto3.jpg'),
                   width: 400,
                   height: 300,
                 ),
