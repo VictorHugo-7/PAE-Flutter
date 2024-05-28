@@ -117,7 +117,7 @@ void _launchURLprojeto1() async {
 // Método url Projeto 2
 void _launchURLprojeto2() async {
   const url =
-      'https://github.com/VictorHugo-7/PAE-Flutter/tree/main/Portif%C3%B3lio';
+      'https://github.com/VictorHugo-7/PAE-Flutter/tree/main/portifolio';
   if (await canLaunchUrlString(url)) {
     await launchUrlString(url);
   } else {

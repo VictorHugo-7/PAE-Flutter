@@ -14,7 +14,7 @@ class App extends StatelessWidget {
 
       debugShowCheckedModeBanner: false, // Remover a faixa de debug
       
-      title: 'Portifólio Victor',        // Título da Página 
+      title: 'Portifólio Victor Hugo',        // Título da Página 
 
       home: const SobrePage(),
       routes: {
